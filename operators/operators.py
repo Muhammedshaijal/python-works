@@ -1,0 +1,16 @@
+a=3
+b=2
+sum=a+b
+sub=a-b
+mul=a*b
+div=a/b
+mod=a%b
+fd=a//b
+expo=a**b
+print("sum=",sum)
+print("sub=",sub)
+print("mul=",mul)
+print("div=",div)
+print("mod=",mod)
+print("fd=",fd)
+print("expo=",expo)
